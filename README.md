@@ -9,7 +9,7 @@ I experimented with a few models and decided to proceed with Multi-layer Percept
 After model was developed, trained and assessed locally, it was moved and deployed in the  MS Azure Machine Learning environment. The re-training pipeline and REST API Endpoint was set up and became a part of the overall process pipeline through the generation of labels for provided input strings. The result included probabilities for all labels  and threshold was applied on reception side to filter out labels with insufficient probability. The model accuracy was accessed as 94%.
 
 #### Appendices: 
- The model training script: https://github.com/lastdruid/Portfolio/blob/main/AzureML/Multi-label%20classification/keras_model_training.py
+ The model training script: https://github.com/boris-korotkov/DS-Portfolio/blob/main/Azure%20ML/keras_model_training.py
    
  The deployment module: https://github.com/lastdruid/Portfolio/blob/main/AzureML/Multi-label%20classification/Model%20Training%20and%20Deployment.ipynb
       
