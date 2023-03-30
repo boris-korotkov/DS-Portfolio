@@ -46,7 +46,7 @@ data = run.input_datasets['training_data'].to_pandas_dataframe()
 stemmer = PorterStemmer()
 # Drop rows with empty description
 data.dropna(inplace=True)
-# NAC removal            
+# NAC records removal            
 data['description'].replace(to_replace="[\(\*]NA[C]?\s*[\)\(]*C?", value=r"", regex=True, inplace=True)
 # Stem, remnove special characters, and lowecase transformation
 data['description'] = data['description'].apply(lambda x: " ".join([stemmer.stem(i) for i in re.sub("[^a-zA-Z0-9]", " ", x).split()]).lower())
