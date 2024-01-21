@@ -4,6 +4,7 @@ I'm very excited to present you my Data Science Portfolio. Since I plan to do a 
 To see a project  details click on the link and you will be forwarded to the corresponding GitHub repo.
 |Project Name|Project Description|Domain|Sub-Domain|Tools|
 |--|--|--|--|--|
+|[Sentiment analysis](https://github.com/boris-korotkov/sentiment-analysis)|A  sentiment analysis of customer reviews.|Machine Learning|Natual Language Processing|Python<br>ChatGPT<br>Web Scraping<br>Hugging Face|
 |[ChatGPT driven Chatbot](https://github.com/boris-korotkov/Chatbot)|A Chatbot mobile application.|Generative AI|Natual Language Processing|Python<br>ChatGPT<br>MDKivy<br>OpenAI|
 |[Customer Churn Prediction](https://github.com/boris-korotkov/Customer-Churn-Prediction)|The AWS Sagemaker ML model that is used to predict customer churn.|Machine Learning|Classification|Python<br>AWS Sagemaker<br> XGBoost|
 |[The Labels Generator](https://github.com/boris-korotkov/The-Labels-Generator)|The ML model that generates multiple labels based on diagnose description.|Machine Learning|Multi-label Classification|Python<br>Neural Network(Keras)<br>NLP(NLTK)<br>Azure ML|
