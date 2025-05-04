@@ -5,7 +5,7 @@ To see a project details click on the link and you will be forwarded to the corr
 
 |Project Name|Project Description|Domain|Sub-Domain|Tools|
 |---|---|---|---|---|
-|[AWS Polly Book Narrator](<your-repo-url-for-polly-project>)|Converts large text files (e.g., books) into audio files chapter by chapter using asynchronous AWS Polly tasks and S3 storage.|Cloud Computing / Automation|Text-to-Speech (TTS)|Python<br>AWS Polly<br>AWS S3<br>Boto3<br>Regex<br>Google AI Studio|
+|[AWS Polly Book Narrator](https://github.com/boris-korotkov/txt2mp3convertor)|Converts large text files (e.g., books) into audio files chapter by chapter using asynchronous AWS Polly tasks and S3 storage.|Cloud Computing / Automation|Text-to-Speech (TTS)|Python<br>AWS Polly<br>AWS S3<br>Boto3<br>Regex<br>Google AI Studio|
 |[RAG AI Chatbot](https://github.com/boris-korotkov/ollama-test)|A Retrieval-Augmented Generation (RAG) AI chatbot.|Generative AI|Natural Language Processing|Python<br>OLLAMA<br>Web Scraping<br>Fast API<br>Chroma DB<br>React<br>Node.js|
 |[Sentiment analysis](https://github.com/boris-korotkov/sentiment-analysis)|A sentiment analysis of customer reviews.|Machine Learning|Natural Language Processing|Python<br>ChatGPT<br>Web Scraping<br>Hugging Face|
 |[ChatGPT driven Chatbot](https://github.com/boris-korotkov/Chatbot)|A Chatbot mobile application.|Generative AI|Natural Language Processing|Python<br>ChatGPT<br>MDKivy<br>OpenAI|
