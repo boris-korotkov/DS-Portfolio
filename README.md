@@ -5,7 +5,7 @@ To see a project details click on the link and you will be forwarded to the corr
 
 |Project Name|Project Description|Domain|Sub-Domain|Tools|
 |---|---|---|---|---|
-|[Mobile Game Automation Framework](https://github.com/boris-korotkov/Mobile-Game-Automation-Framework)|A framework to automate mobile games (e.g., Clone Evolution) on PC using computer vision (OpenCV) and a YAML workflow engine.|Computer Vision / Automation|UI Automation / Image Recognition|Python<br>OpenCV<br>ADB<br>YAML<br>Jinja2<br>Tesseract<br>Google AI Studio|
+|[Mobile Game Automation Framework](https://github.com/boris-korotkov/CE_AUTOMATION)|A framework to automate mobile games (e.g., Clone Evolution) on PC using computer vision (OpenCV) and a YAML workflow engine.|Computer Vision / Automation|UI Automation / Image Recognition|Python<br>OpenCV<br>ADB<br>YAML<br>Jinja2<br>Tesseract<br>Google AI Studio|
 |[AWS Polly Book Narrator](https://github.com/boris-korotkov/txt2mp3convertor)|Converts large text files (e.g., books) into audio files chapter by chapter using asynchronous AWS Polly tasks and S3 storage.|Cloud Computing / Automation|Text-to-Speech (TTS)|Python<br>AWS Polly<br>AWS S3<br>Boto3<br>Regex<br>Google AI Studio|
 |[RAG AI Chatbot](https://github.com/boris-korotkov/ollama-test)|A Retrieval-Augmented Generation (RAG) AI chatbot.|Generative AI|Natural Language Processing|Python<br>OLLAMA<br>Web Scraping<br>Fast API<br>Chroma DB<br>React<br>Node.js|
 |[Sentiment analysis](https://github.com/boris-korotkov/sentiment-analysis)|A sentiment analysis of customer reviews.|Machine Learning|Natural Language Processing|Python<br>ChatGPT<br>Web Scraping<br>Hugging Face|
