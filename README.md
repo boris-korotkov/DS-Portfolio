@@ -1,4 +1,4 @@
-## Welcome to my Data Science Portfolio!
+## Welcome to my Data Science and Automation Portfolio!
 
 I'm very excited to present you my Data Science Portfolio. Since I plan to do a lot of projects, I decided to organize the project contents as a table.
 To see a project details click on the link and you will be forwarded to the corresponding GitHub repo.
